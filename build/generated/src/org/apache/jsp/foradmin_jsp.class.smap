@@ -1,0 +1,16 @@
+SMAP
+foradmin_jsp.java
+JSP
+*S JSP
+*F
++ 0 foradmin.jsp
+foradmin.jsp
+*L
+5,33:52
+38,6:86
+43,42:92
+85:134,3
+86:137
+87,6:138,3
+93,11:156
+*E
